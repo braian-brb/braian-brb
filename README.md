@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @braian-brb
 - 👀 I’m interested in Back-end Job
-- 🌱 I’m currently learning Python & Node.js...
 
 
 <!---
